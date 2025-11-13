@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Chat KPS",
+  "name": "Kofix Photography Studio Chat",
+  "description": "A private messaging app for clients of Kofix Photography Studio.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "background_color": "#111827"
+}

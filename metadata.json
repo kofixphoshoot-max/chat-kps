@@ -1,0 +1,7 @@
+{
+  "name": "Chat KPS",
+  "description": "A private messaging PWA for clients of Kofix Photography Studio, featuring AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
